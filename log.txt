@@ -1,0 +1,8 @@
+https://nodejs.org/download/nightly/v12.0.0-nightly20190301584305841d/node-v12.0.0-nightly20190301584305841d.tar.xz
+https://nodejs.org/download/nightly/v12.0.0-nightly20190301584305841d/win-x86/node.lib
+https://nodejs.org/download/nightly/v12.0.0-nightly20190301584305841d/win-x86/node_pdb.7z
+https://nodejs.org/download/nightly/v12.0.0-nightly20190301584305841d/node-v12.0.0-nightly20190301584305841d-headers.tar.xz
+
+https://nodejs.org/download/nightly/v12.0.0-nightly20190301584305841d/node-v12.0.0-nightly20190301584305841d-win-x86.7z
+https://nodejs.org/download/nightly/v12.0.0-nightly20190301584305841d/win-x86/node.exe
+
